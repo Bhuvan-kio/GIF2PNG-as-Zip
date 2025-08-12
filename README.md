@@ -1,4 +1,4 @@
-# 🖼️ GIF to PNG & ZIP Converter
+# GIF to PNG & ZIP Converter
 
 > **animation.gif &nbsp; → &nbsp; [ frame_001.png, frame_002.png, ... ] &nbsp; → &nbsp; frames.zip**
 
@@ -6,7 +6,7 @@ This Python script automates the process of converting an animated GIF into a se
 
 ---
 
-## ✨ Features
+## Features
 
 -   **Frame Extraction**: Reads an animated GIF and saves every frame as a separate file.
 -   **PNG Output**: Converts each frame into a high-quality PNG image.
@@ -16,7 +16,7 @@ This Python script automates the process of converting an animated GIF into a se
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have Python 3 and the `Pillow` library installed.
 
@@ -28,7 +28,7 @@ Before you begin, ensure you have Python 3 and the `Pillow` library installed.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Save the Script**: Have your Python script ready (e.g., named `convert_and_zip.py`).
 2.  **Configure Paths**: Open the script and edit the configuration variables to point to your input GIF and desired output folder.
@@ -41,6 +41,6 @@ The script will create a folder containing all the PNG frames, as well as a sepa
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
